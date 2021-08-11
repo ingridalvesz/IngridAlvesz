@@ -22,5 +22,5 @@
     
     
   
-  <img align="right" alt="gif-ingrid" src="https://media.discordapp.net/attachments/873746768821649421/874883381366763541/Animated_GIF-downsized_large_1.gif">
+  <img align="center" alt="gif-ingrid" src="https://media.discordapp.net/attachments/873746768821649421/874883381366763541/Animated_GIF-downsized_large_1.gif">
 </div>
