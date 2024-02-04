@@ -1,6 +1,6 @@
 ###  Hi 
 
-- 💼 Economist
+- 💼 Data analyst
 
 
  <div>
