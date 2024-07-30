@@ -27,6 +27,8 @@
   <a href = "mailto:ingrid.roberta.alves.s@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-alves-28a662203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  ##
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vivihlopes/vivihlopes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vingridalvesz/ingridalvesz/output/snake.svg" alt="Snake animation" />
