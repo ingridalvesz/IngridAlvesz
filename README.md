@@ -1,6 +1,8 @@
-###  Hi 
+###  Oi! me chamo Ingrid, apaixonada por programação há mais de 2 anos e, nos últimos meses, me aventurei pelo universo da ciência de dados... Estou sempre em busca de novos desafios e aprendizados. Dê uma olhada nos projetos que criei ao longo dessa emocionante jornada!
 
-- 💼 Data analyst
+- 💻 Data Science
+- 📈 Data Analyst
+- 📊 DataViz
 
 <div>
   
