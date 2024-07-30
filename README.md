@@ -6,8 +6,8 @@
 
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ingridalvesz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=flase&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridalvesz&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ingridalvesz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-br&&layout=compact&hide_border=true" height="180" alt="stats graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridalvesz&layout=compact&locale=pt-br&theme=dracula"/>
   
 </div>
 
