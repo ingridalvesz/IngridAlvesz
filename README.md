@@ -1,4 +1,4 @@
-###  Oi! me chamo Ingrid, apaixonada por programação há mais de 2 anos e, nos últimos meses, me aventurei pelo universo da ciência de dados... Estou sempre em busca de novos desafios e aprendizados.      Vem conferir alguns projetos que criei ao longo dessa emocionante jornada!
+###  Oi! me chamo Ingrid, estudando programação há mais de 2 anos e, nos últimos meses, me aventurei pelo universo da ciência de dados... Estou sempre em busca de novos desafios e aprendizados.      Vem conferir alguns projetos que criei ao longo dessa emocionante jornada!
 
   
 - __💻 Data Science__
