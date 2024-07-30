@@ -29,6 +29,3 @@
 
   ##
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ingridalvesz/ingridalvesz/output/snake.svg" alt="Snake animation" />
