@@ -1,10 +1,9 @@
-###  Oi! me chamo Ingrid, estudo programação há mais de 2 anos e, nos últimos meses, me aventurei pelo universo da ciência de dados... Estou sempre em busca de novos desafios e aprendizados.      Vem conferir alguns projetos que criei ao longo dessa emocionante jornada!
+###  Oi! me chamo Ingrid, estudo programação há mais de 2 anos e, nos últimos meses, me aventurei pelo universo da ciência de dados... Estou sempre em busca de novos desafios e aprendizados.      Vem conferir alguns projetos que criei ao longo dessa emocionante jornada! 
 
-  
-- __💻 Data Science__
-- __📈 Data Analyst__
-- __📊 DataViz__
-
+##  
+>- __💻 Data Science__
+>- __📈 Data Analyst__
+>- __📊 DataViz__
 ##
 
 <div align="center">
