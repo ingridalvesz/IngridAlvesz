@@ -1,4 +1,8 @@
-###  Oi! me chamo Ingrid, estudo programação há mais de 4 anos e, nos últimos meses, me aventurei pelo universo da ciência de dados... Estou sempre em busca de novos desafios e aprendizados.      Vem conferir alguns projetos que criei ao longo dessa emocionante jornada! 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&size=45&center=true&vCenter=true&width=500&height=80&duration=2000&pause=1000&color=F75DBB&width=435&lines=Oi+💕;+Me+chamo+Ingrid!;+Seja+Bem-Vindo!+" />
+</h1>
+
+### Estudo programação há mais de 4 anos, me aventurei pelo universo da ciência/análise de dados... Estou sempre em busca de novos desafios e aprendizados.      Vem conferir alguns projetos que criei ao longo dessa emocionante jornada! 
 
 ##  
 >- __📈 Data Analist__
